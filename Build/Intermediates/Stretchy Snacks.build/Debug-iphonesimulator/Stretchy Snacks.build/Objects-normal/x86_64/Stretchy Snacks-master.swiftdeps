@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.33.1 clang-800.0.31)"
+options: "e9ac87efb6d3187e901c590a1be0c9a3"
+build_time: [523683459, 527409000]
+inputs:
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W6 Assignments/W6D4 Assignments/Stretchy Snacks/Stretchy Snacks/ViewController.swift": [523683459, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W6 Assignments/W6D4 Assignments/Stretchy Snacks/Stretchy Snacks/AppDelegate.swift": [523643004, 0]
